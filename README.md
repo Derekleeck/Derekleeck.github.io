@@ -1,1 +1,3 @@
 # Derekleeck.github.io
+
+nico, I can't deploy my project because of some of reasons...
